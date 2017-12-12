@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="button_forgot">Forgot Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="email">Enter E-Mail ID</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a ullamcorper felis. Quisque porta sapien nec orci facilisis, eu aliquam sem volutpat. In pellentesque augue nec placerat tristique. Donec ullamcorper purus id ligula semper ultricies.</string>
+</resources>
